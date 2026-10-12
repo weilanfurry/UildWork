@@ -1,0 +1,5 @@
+// UildWork executable icon resource.
+// Build with: windres resources/app.rc -o build/obj/app.res.o
+#define IDI_UILDWORK 101
+
+IDI_UILDWORK ICON "assets/favicon.ico"
